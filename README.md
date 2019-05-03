@@ -11,3 +11,4 @@ Git, Github, command-line practice repo <br/>
 * Push: Updates/Syncs the committed files with Github repository
 * Init: Create an empty Git repository or reinitialize an existing one
 * Pull: Fetch from & integrate with another repository or a local branch
+* Merge: Combine multiple sequences of commits into one unified history
