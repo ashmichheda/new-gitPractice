@@ -1,7 +1,6 @@
 # new-gitPractice
 Git, Github, command-line practice repo <br/>
 
-#### Source: [Github Tutorial: Github Basics & Source control basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
 #### Practice Git commands using Command Line:
 
