@@ -1,7 +1,6 @@
 # new-gitPractice
 Git, Github, command-line practice repo <br/>
 
-
 #### Practice Git commands using Command Line:
 
 * Clone:  Clones a repository into a new directory
