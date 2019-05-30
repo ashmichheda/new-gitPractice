@@ -11,3 +11,4 @@ Git, Github, command-line practice repo <br/>
 * Init: Create an empty Git repository or reinitialize an existing one
 * Pull: Fetch from & integrate with another repository or a local branch
 * Merge: Combine multiple sequences of commits into one unified history
+* Checkout: Command entered with URL would clone that particular branch of the project from URL.
